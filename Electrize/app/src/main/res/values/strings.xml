@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Electrize</string>
+    <!-- Strings needed for navigation -->
+    <string name="home">Home</string>
+    <string name="products">Producten</string>
+    <string name="routes">Routes</string>
+    <string name="shopping_cart">Winkelkar</string>
+    <string name="contacts">Contacten</string>
+    <string name="settings">Instellingen</string>
+    <string name="compare">Vergelijken</string>
+    <string name="friend_requests">Vriendschaps verzoeken</string>
+    <string name="incoming_friend_requests">Binnenkomende vriendschapsverzoeken</string>
+    <string name="outgoing_friend_requests">Uitgaande vriendschapsverzoeken</string>
+    <string name="collection_requests">Ophaal verzoeken</string>
+    <string name="customize_route">Route samenstellen</string>
+    <string name="payment">Betalingen</string>
+    <string name="categories">Categoriën</string>
+    <string name="searchresults">Zoekresultaten</string>
+    <string name="search">Zoek pagina</string>
+    <string name="searchResults">Zoek pagina resultaten</string>
+    <string name="qr_code_scanner">QR-code scanner</string>
+    <string name="inspect_incoming_route">Bekijk route</string>
+    <string name="category_products">Producten per categorie</string>
+    <string name="login_register">Inloggen - registreren</string>
+    <string name="logout">Uitloggen</string>
+    <string name="review">Review</string>
+
+    <!-- Hardcoded data strings -->
+    <string name="incomingcollection_requests">Binnenkomende ophaalverzoeken</string>
+    <string name="outgoingcollection_requests">Verzonden ophaalverzoeken</string>
+    <string name="routes_present">Actieve routes</string>
+    <string name="routes_future">Toekomstige routes</string>
+    <string name="routes_past">Voltooide routes</string>
+    <string name="friends">Vrienden</string>
+    <string name="userid">GebruikersId</string>
+    <string name="account_overview">Account details</string>
+    <string name="contact">Contact</string>
+    <string name="other">Andere</string>
+    <string name="language">Taal</string>
+    <string name="theme">Donker thema</string>
+    <string name="login">Login in</string>
+    <string name="collectionrequest_message">Wegens onvoorziene omstandigheden kan ik mijn bestelling niet ophalen. Zou jij dit kunnen doen voor mij?</string>
+
+    <!-- Payment page -->
+    <string name="payment_title">Kies uw betalings methode</string>
+    <string name="payment_total_price">De totale prijs van uw order is: € </string>
+    <string name="payment_coupon_searchbar_placeholder">Uw kortingscode</string>
+    <string name="payment_coupon_button">Voeg toe</string>
+
+    <!-- Customize route page -->
+    <string name="customize_route_title">Kies uw route</string>
+    <string name="customize_route_shortest">Kort</string>
+    <string name="customize_route_cheapest">Goed- koop</string>
+    <string name="customize_route_own">Eigen</string>
+    <string name="customize_route_button">Doorgaan naar checkout</string>
+
+    <string name = "ordered_on">Besteld op</string>
+    <string name = "collect_on">Ophalen op</string>
+    <string name = "type_route">Type route</string>
+    <string name = "pricing">Prijzen</string>
+    <string name = "length">Lengte</string>
+    <string name = "estimated_duration">Geschatte duur</string>
+    <string name = "number_of_shops">Aantal winkels</string>
+    <string name = "total_price">Totaalprijs</string>
+    <string name = "specifications">Specificaties</string>
+    <string name = "reviews">Reviews</string>
+    <string name = "empty_cart_header">Uw winkelkar is leeg</string>
+    <string name = "empty_cart_message">Het lijkt erop dat u nog niets heeft toegevoegd aan de winkelkar.</string>
+    <string name = "go_to_products">Ga naar producten</string>
+    <string name = "empty_compare_header">Geen producten om te vergelijken</string>
+    <string name = "empty_compare_message">Het lijkt erop dat je nog geen producten hebt geselecteerd om te vergelijken.</string>
+    <string name = "empty_contacts_header">U hebt nog geen contacten</string>
+    <string name = "empty_contacts_message">Het lijkt erop dat u nog geen contacten hebt, laten we hier verandering in brengen!</string>
+    <string name = "go_to_friendrequests">Ga naar vriendschapsverzoeken</string>
+    <string name = "empty_friendrequests_header">U hebt geen vriendschapsverzoeken</string>
+    <string name = "empty_friendrequests_message">Het lijkt erop dat u geen vriendschapsverzoeken hebt. Verzend er zelf enkele!</string>
+    <string name = "send_friend_requests">Verzend vriendschaps verzoeken</string>
+    <string name = "empty_retrievalrequest_header">U hebt geen openstaande ophaalverzoeken.</string>
+    <string name = "empty_retrievalrequest_message">Het lijkt erop dat u geen openstaande ophaalverzoeken heeft.</string>
+    <string name = "go_to_routes">Ga naar uw routes</string>
+    <string name = "no_incoming_request">U hebt geen binnenkomende ophaalverzoeken</string>
+    <string name = "no_exiting_request">U hebt geen uitgaande ophaalverzoeken</string>
+
+    <string-array name="homepage_categories">
+        <item>Recent bezocht</item>
+        <item>Populaire categoriën</item>
+        <item>Acties</item>
+        <item>Aanbevolen voor jou</item>
+    </string-array>
+
+    <string name="channel_name">Leave reviews</string>
+    <string name="channel_description">Remember to leave reviews on your bought products</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Project_groep_2</string>
+    <string name="Routes_present">Routes voor vandaag</string>
+    <string name="Routes_future">Toekomstige routes</string>
+    <string name="Routes_past">Reeds voltooide routes</string>
+    <string name="Ordered_on">Besteld op</string>
+    <string name="Retrieve_on">Ophalen op</string>
+    <string name="Length_of_route">Afstand</string>
+    <string name="Route_duration">Geschatte duur</string>
+    <string name="Number_of_shops">Aantal winkels</string>
+    <string name="Products">Producten</string>
+    <string name="Total_price">Totaalprijs</string>
+    <string name="Start_route">Start route</string>
+    <string name="View_route">View route</string>
+    <string name="Send_retrievalrequest">Stuur ophaalverzoek</string>
+    <string name="Retrievalrequest">Ophaalverzoeken</string>
+    <string name="Exiting_requests">Uitgaande verzoeken</string>
+    <string name="Retrievalrequest_message">Wegens onvoorziene omstandigheden kan ik mijn bestelling niet ophalen. Zou jij dit kunnen doen voor mij?</string>
+    <string name="Personalia">Personalia</string>
+    <string name="Contact">Contact info</string>
+    <string name="Other">Overige info</string>
+    <string name="Dark_theme">Donkere modus</string>
+    <string name="Language">Taal</string>
+    <string name="Incoming">Inkomende</string>
+    <string name="Outgoing">Verzonden</string>
+    <string name="Friend_requests">Vriendschapsverzoeken</string>
+    <string name="Userid">GebruikersID</string>
+    <string name="Friends">Vrienden</string>
+</resources>
